@@ -62,14 +62,21 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Live Screenshots
 
-### MT5 Expert Advisor — Live Trading
+### MT5 — Account $100K (PU Prime)
 <p align="center">
-  <img src="docs/mt5_dashboard.png" width="700" alt="MT5 Dashboard"/>
+  <img src="docs/mt5_100k_live.png" width="700" alt="MT5 100K Account"/>
 </p>
 
-> Real-time on-chart dashboard showing active trades, P&L, lot sizing, and connection status.
+> **Balance: $117,137** · EA: ANTHONY WILLIAM · Status: ATTIVO (90%) · Tendenza: RIALZISTA
+
+### MT5 — Account $10K (PU Prime)
+<p align="center">
+  <img src="docs/mt5_10k_live.png" width="700" alt="MT5 10K Account"/>
+</p>
+
+> **Balance: $13,677** · EA: ANTHONY WILLIAM · Status: ATTIVO (90%) · Cut Loss protection enabled
 
 ---
 
