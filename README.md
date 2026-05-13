@@ -78,6 +78,13 @@
 
 > **Balance: $13,677** · EA: ANTHONY WILLIAM · Status: ATTIVO (90%) · Cut Loss protection enabled
 
+### Bernø FX — VIP Channel (Live Signal Forwarding)
+<p align="center">
+  <img src="docs/telegram_vip_live.png" width="500" alt="Bernø FX VIP Channel"/>
+</p>
+
+> Signal forwarding from source to client VIP channel with Italian formatting and reply-linked updates.
+
 ---
 
 ## ✨ Key Features
